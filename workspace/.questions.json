@@ -4,22 +4,22 @@
   ],
   "questions": [
     {
-      "name": "__USERFULLNAME__",
+      "name": "____USERFULLNAME____",
       "message": "Enter author full name",
       "required": true
     },
     {
-      "name": "__USEREMAIL__",
+      "name": "____USEREMAIL____",
       "message": "Enter author email",
       "required": true
     },
     {
-      "name": "__MODULENAME__",
+      "name": "____MODULENAME____",
       "message": "Enter the module name",
       "required": true
     },
     {
-      "name": "__USERNAME__",
+      "name": "____USERNAME____",
       "message": "Enter your github username",
       "required": true
     }

@@ -11,7 +11,7 @@
   "registry": "https://registry.npmjs.org",
   "command": {
     "create": {
-      "homepage": "https://github.com/__USERNAME__/__MODULENAME__",
+      "homepage": "https://github.com/____USERNAME____/____MODULENAME____",
       "license": "SEE LICENSE IN LICENSE",
       "access": "restricted"
     },

@@ -1,18 +1,18 @@
-# __MODULENAME__
+# ____MODULENAME____
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/launchql/launchql/refs/heads/main/assets/outline-logo.svg" width="250"><br />
-    __MODULEDESC__
+    ____MODULEDESC____
 </p>
 
 ## install
 
 ```sh
-npm install __MODULENAME__
+npm install ____MODULENAME____
 ```
 ## Table of contents
 
-- [__MODULENAME__](#__MODULENAME__)
+- [____MODULENAME____](#____MODULENAME____)
   - [Install](#install)
   - [Table of contents](#table-of-contents)
 - [Developing](#developing)

@@ -4,37 +4,37 @@
   ],
   "questions": [
     {
-      "name": "__USERFULLNAME__",
+      "name": "____USERFULLNAME____",
       "message": "Enter author full name",
       "required": true
     },
     {
-      "name": "__USEREMAIL__",
+      "name": "____USEREMAIL____",
       "message": "Enter author email",
       "required": true
     },
     {
-      "name": "__MODULENAME__",
+      "name": "____MODULENAME____",
       "message": "Enter the module name",
       "required": true
     },
     {
-      "name": "__MODULEDESC__",
+      "name": "____MODULEDESC____",
       "message": "Enter the module description",
       "required": true
     },
     {
-      "name": "__REPONAME__",
+      "name": "____REPONAME____",
       "message": "Enter the repository name",
       "required": true
     },
     {
-      "name": "__USERNAME__",
+      "name": "____USERNAME____",
       "message": "Enter your github username",
       "required": true
     },
     {
-      "name": "__ACCESS__",
+      "name": "____ACCESS____",
       "message": "Module access?",
       "options": [
         "public",
@@ -44,7 +44,7 @@
       "required": true
     },
     {
-      "name": "__LICENSE__",
+      "name": "____LICENSE____",
       "message": "Choose a license",
       "type": "list",
       "options": [

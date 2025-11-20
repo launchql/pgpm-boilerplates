@@ -1,20 +1,20 @@
 {
-  "name": "__PACKAGE_IDENTIFIER__",
+  "name": "____PACKAGE_IDENTIFIER____",
   "version": "0.0.1",
-  "author": "__USERFULLNAME__ <__USEREMAIL__>",
-  "description": "__MODULEDESC__",
-  "homepage": "https://github.com/__USERNAME__/__REPONAME__",
-  "license": "__LICENSE__",
+  "author": "____USERFULLNAME____ <____USEREMAIL____>",
+  "description": "____MODULEDESC____",
+  "homepage": "https://github.com/____USERNAME____/____REPONAME____",
+  "license": "____LICENSE____",
   "publishConfig": {
-    "access": "__ACCESS__",
+    "access": "____ACCESS____",
     "directory": "dist"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/__USERNAME__/__REPONAME__"
+    "url": "https://github.com/____USERNAME____/____REPONAME____"
   },
   "bugs": {
-    "url": "https://github.com/__USERNAME__/__REPONAME__/issues"
+    "url": "https://github.com/____USERNAME____/____REPONAME____/issues"
   },
   "scripts": {
     "lint": "eslint . --fix",

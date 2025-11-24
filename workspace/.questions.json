@@ -6,11 +6,13 @@
     {
       "name": "____fullName____",
       "message": "Enter author full name",
+      "defaultFrom": "git.user.name",
       "required": true
     },
     {
       "name": "____email____",
       "message": "Enter author email",
+      "defaultFrom": "git.user.email",
       "required": true
     },
     {
@@ -21,6 +23,7 @@
     {
       "name": "____username____",
       "message": "Enter your github username",
+      "defaultFrom": "npm.whoami",
       "required": true
     }
   ]

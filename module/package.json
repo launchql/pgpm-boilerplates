@@ -2,7 +2,7 @@
   "name": "____packageIdentifier____",
   "version": "0.0.1",
   "author": "____fullName____ <____email____>",
-  "description": "____description____",
+  "description": "____moduleDesc____",
   "homepage": "https://github.com/____username____/____repoName____",
   "license": "____license____",
   "publishConfig": {

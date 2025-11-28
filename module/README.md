@@ -1,8 +1,14 @@
 # ____moduleName____
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/launchql/launchql/refs/heads/main/assets/outline-logo.svg" width="250"><br />
-    ____moduleDesc____
+<p align="center" width="100%">
+  <img height="250" src="https://raw.githubusercontent.com/launchql/launchql/refs/heads/main/assets/outline-logo.svg" />
+</p>
+
+<p align="center" width="100%">
+  <a href="https://github.com/____username____/____repoName____/actions/workflows/ci.yml">
+    <img height="20" src="https://github.com/____username____/____repoName____/actions/workflows/ci.yml/badge.svg" />
+  </a>
+   <a href="https://www.npmjs.com/package/____moduleName____"><img height="20" src="https://img.shields.io/github/package-json/v/____username____/____repoName____?filename=packages%2F____moduleName____%2Fpackage.json"/></a>
 </p>
 
 ## Developing

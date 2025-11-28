@@ -1,7 +1,4 @@
 {
-  "ignore": [
-    "__tests__"
-  ],
   "questions": [
     {
       "name": "____fullName____",

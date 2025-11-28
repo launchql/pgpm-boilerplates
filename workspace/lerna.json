@@ -12,7 +12,7 @@
   "command": {
     "create": {
       "homepage": "https://github.com/____username____/____moduleName____",
-      "license": "SEE LICENSE IN LICENSE",
+      "license": "____license____",
       "access": "restricted"
     },
     "publish": {

@@ -21,7 +21,7 @@
       "required": true
     },
     {
-      "name": "____description____",
+      "name": "____moduleDesc____",
       "message": "Enter the module description",
       "required": true
     },

@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/____username____/____moduleName____"
   },
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "____license____",
   "publishConfig": {
     "access": "restricted"
   },

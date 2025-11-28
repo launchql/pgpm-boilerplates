@@ -24,10 +24,5 @@
   "keywords": [],
   "devDependencies": {
     "pgsql-test": "^2.13.2"
-  },
-  "pnpm": {
-    "overrides": {
-      "graphql": "14.7.0"
-    }
   }
 }

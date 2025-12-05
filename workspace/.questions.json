@@ -22,6 +22,17 @@
       "message": "Enter your github username",
       "defaultFrom": "npm.whoami",
       "required": true
+    },
+    {
+      "name": "____license____",
+      "message": "Choose a license",
+      "type": "list",
+      "options": [
+        "MIT",
+        "Apache-2.0",
+        "ISC"
+      ],
+      "required": true
     }
   ]
 }

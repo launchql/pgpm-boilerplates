@@ -50,7 +50,11 @@
       "options": [
         "MIT",
         "Apache-2.0",
-        "ISC"
+        "ISC",
+        "BSD-3-Clause",
+        "GPL-3.0",
+        "MPL-2.0",
+        "Unlicense"
       ],
       "required": true
     }

@@ -1,7 +1,11 @@
 name: pgpm tests
 on:
-  push:
   pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:

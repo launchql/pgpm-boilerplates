@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-This workspace was generated with `pgpm init --workspace`. For a complete guide on developing with pgpm workspaces, see [Workspaces: Organize Postgres](https://launchql.com/learn/modular-postgres/workspaces-organize-postgres).
+This workspace was generated with `pgpm init workspace`. For a complete guide on developing with pgpm workspaces, see [Workspaces: Organize Postgres](https://launchql.com/learn/modular-postgres/workspaces-organize-postgres).
 
 ### Quick Start
 

@@ -19,11 +19,11 @@
   "scripts": {
     "lint": "eslint . --fix",
     "test": "jest",
-    "test:watch": "makage test --watch deploy --ext sql"
+    "test:watch": "jest --watch"
   },
   "keywords": [],
   "devDependencies": {
-    "pgsql-test": "^2.14.12",
+    "pgsql-test": "^2.16.2",
     "makage": "0.1.8"
   }
 }

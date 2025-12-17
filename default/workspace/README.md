@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-This workspace was generated with `pgpm init workspace`. For a complete guide on developing with pgpm workspaces, see [Workspaces: Organize Postgres](https://launchql.com/learn/modular-postgres/workspaces-organize-postgres).
+This workspace was generated with `pgpm init workspace`. For a complete guide on developing with pgpm workspaces, see [Workspaces: Organize Postgres](https://constructive.io/learn/modular-postgres/workspaces-organize-postgres).
 
 ### Quick Start
 
@@ -43,12 +43,11 @@ pnpm test:watch
 - PostgreSQL client tools (`psql`)
 - pgpm (`npm install -g pgpm`)
 
-See [Prerequisites](https://launchql.com/learn/quickstart/prerequisites) for detailed setup instructions.
+See [Prerequisites](https://constructive.io/learn/quickstart/prerequisites) for detailed setup instructions.
 
 ## Credits
 
-🛠 Built by LaunchQL — checkout [our github ⚛️](https://github.com/launchql)
-
+**🛠 Built by the [Constructive](https://constructive.io) team — creators of modular Postgres tooling for secure, composable backends. If you like our work, contribute on [GitHub](https://github.com/constructive-io).**
 
 ## Disclaimer
 

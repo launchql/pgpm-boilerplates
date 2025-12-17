@@ -13,7 +13,7 @@
 
 ## Developing
 
-This module was generated with `pgpm init`. For a complete guide on creating and testing database modules, see [Creating Your First Module](https://launchql.com/learn/modular-postgres/creating-first-module).
+This module was generated with `pgpm init`. For a complete guide on creating and testing database modules, see [Creating Your First Module](https://constructive.io/learn/modular-postgres/creating-first-module).
 
 ```sh
 # Install dependencies
@@ -31,7 +31,7 @@ pgpm deploy --database your_db --createdb --yes
 
 ## Credits
 
-🛠 Built by LaunchQL — checkout [our github ⚛️](https://github.com/launchql)
+**🛠 Built by the [Constructive](https://constructive.io) team — creators of modular Postgres tooling for secure, composable backends. If you like our work, contribute on [GitHub](https://github.com/constructive-io).**
 
 ## Disclaimer
 

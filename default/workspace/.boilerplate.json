@@ -16,6 +16,7 @@
     {
       "name": "____repoName____",
       "message": "Enter the repository name",
+      "defaultFrom": "workspace.dirname",
       "required": true
     },
     {

@@ -29,15 +29,7 @@
       "name": "____license____",
       "message": "Choose a license",
       "type": "list",
-      "options": [
-        "MIT",
-        "Apache-2.0",
-        "ISC",
-        "BSD-3-Clause",
-        "GPL-3.0",
-        "MPL-2.0",
-        "Unlicense"
-      ],
+      "optionsFrom": "licenses",
       "required": true
     }
   ]

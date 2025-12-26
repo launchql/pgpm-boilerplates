@@ -1,5 +1,5 @@
 {
-  "name": "____packageIdentifier____",
+  "name": "____moduleName____",
   "version": "0.0.1",
   "author": "____fullName____ <____email____>",
   "description": "____moduleDesc____",
@@ -23,7 +23,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "pgsql-test": "^2.16.2",
-    "makage": "0.1.8"
+    "pgsql-test": "^2.18.15",
+    "makage": "0.1.9"
   }
 }

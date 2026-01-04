@@ -1,0 +1,4 @@
+comment = '____moduleDesc____'
+default_version = '0.1.0'
+module_pathname = '$libdir/____moduleName____'
+relocatable = true

@@ -1,0 +1,35 @@
+[package]
+name = "____moduleName____"
+version = "0.1.0"
+edition = "2021"
+authors = ["____fullName____ <____email____>"]
+description = "____moduleDesc____"
+license = "____license____"
+repository = "https://github.com/____username____/____repoName____"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+
+[features]
+default = ["pg16"]
+pg13 = ["pgrx/pg13", "pgrx-tests/pg13"]
+pg14 = ["pgrx/pg14", "pgrx-tests/pg14"]
+pg15 = ["pgrx/pg15", "pgrx-tests/pg15"]
+pg16 = ["pgrx/pg16", "pgrx-tests/pg16"]
+pg17 = ["pgrx/pg17", "pgrx-tests/pg17"]
+pg_test = []
+
+[dependencies]
+pgrx = "0.12"
+
+[dev-dependencies]
+pgrx-tests = "0.12"
+
+[profile.dev]
+panic = "unwind"
+
+[profile.release]
+panic = "unwind"
+opt-level = 3
+lto = "fat"
+codegen-units = 1

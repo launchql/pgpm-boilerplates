@@ -1,5 +1,6 @@
 {
   "type": "module",
+  "requiresWorkspace": "pnpm",
   "questions": [
     {
       "name": "____fullName____",

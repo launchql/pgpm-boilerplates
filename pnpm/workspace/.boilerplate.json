@@ -1,5 +1,6 @@
 {
   "type": "workspace",
+  "pgpm": true,
   "questions": [
     {
       "name": "____fullName____",

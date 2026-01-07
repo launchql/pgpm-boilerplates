@@ -1,5 +1,7 @@
 {
   "type": "module",
+  "pgpm": true,
+  "requiresWorkspace": true,
   "questions": [
     {
       "name": "____fullName____",

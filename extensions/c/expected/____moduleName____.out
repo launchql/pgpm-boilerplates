@@ -1,0 +1,7 @@
+-- Test script for ____moduleName____
+CREATE EXTENSION ____moduleName____;
+SELECT hello_____moduleName____();
+      hello_____moduleName____      
+-----------------------------
+ Hello from ____moduleName____!
+(1 row)

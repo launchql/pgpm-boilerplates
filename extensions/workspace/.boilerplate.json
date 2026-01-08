@@ -1,0 +1,36 @@
+{
+  "type": "workspace",
+  "questions": [
+    {
+      "name": "____fullName____",
+      "message": "Enter author full name",
+      "defaultFrom": "git.user.name",
+      "required": true
+    },
+    {
+      "name": "____email____",
+      "message": "Enter author email",
+      "defaultFrom": "git.user.email",
+      "required": true
+    },
+    {
+      "name": "____repoName____",
+      "message": "Enter the repository name",
+      "defaultFrom": "workspace.dirname",
+      "required": true
+    },
+    {
+      "name": "____username____",
+      "message": "Enter your github username",
+      "defaultFrom": "npm.whoami",
+      "required": true
+    },
+    {
+      "name": "____license____",
+      "message": "Choose a license",
+      "type": "list",
+      "optionsFrom": "licenses",
+      "required": true
+    }
+  ]
+}
